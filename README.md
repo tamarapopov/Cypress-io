@@ -1,5 +1,5 @@
 # Cypress-io
-First tests writes in Cypress io
+The first tests written in Cypress io
 
 # Installing
 Installing Cypress via `npm` or `yarn`:
