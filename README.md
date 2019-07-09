@@ -14,9 +14,8 @@ or
 3. `yarn add cypress --dev`
 
 # Opening
-If you used `npm` to install, Cypress has now been installed to your `./node_modules` directory, with its binary executable accessible from `./node_modules/.bin`.
 You can open Cypress from your project root one of the following ways:
-1. *The long way with the full path: `./node_modules/.bin/cypress open`
+1. The long way with the full path: `./node_modules/.bin/cypress open`
 or
 2. with the shortcut using `npm bin`: `(npm bin)/cypress open`
 or
